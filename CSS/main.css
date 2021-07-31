@@ -1,0 +1,156 @@
+.col-md-6 {
+  background-color: #7c7db3;
+}
+.navbar {
+  background-color: #e6e6e6;
+}
+
+.nav-link {
+  color: #4f5088;
+  font-family: "Play", sans-serif;
+  font-size: 1.25em;
+}
+
+/* #firstContainer {
+  background-image: linear-gradient(to right, #7c7db3ed, #5c5d9f);
+} */
+
+#firstContainer {
+  background-color: #7c7db3;
+}
+
+#image-top {
+  padding: 10px;
+}
+
+/* .first-section {
+  height: 100vh;
+} */
+
+.btn {
+  background-color: #7c7db3;
+  color: black;
+  font-family: "Roboto", sans-serif;
+  border-radius: 20px;
+}
+
+.descHead {
+  color: white;
+  font-family: "Play", sans-serif;
+  font-size: 1.5em;
+  margin-left: 40px;
+}
+.desc {
+  color: #e1e1f5;
+
+  font-family: "Roboto", sans-serif;
+  font-size: 0.9em;
+  margin-left: 40px;
+}
+
+/**********Services*********/
+
+#services {
+  background-color: #e6e6e6;
+  padding: 60px 0px;
+}
+
+#services h1 {
+  color: #5c5d9f;
+  font-family: "Play", sans-serif;
+  font-size: 2em;
+  font-weight: 900;
+}
+
+.title {
+  text-align: center;
+  padding: 25px 0px;
+}
+
+.card-img-top {
+  padding: 15px 0px;
+  width: 150px;
+  height: 150px;
+}
+.card {
+  box-shadow: 0px 0px 20px 7px rgba(0, 0, 0, 0.1);
+  margin: 20px 10px;
+  
+}
+
+
+.card-title {
+  color: #5c5d9f;
+  font-family: "Play", sans-serif;
+  font-size: 1.5em;
+  font-weight: 600;
+}
+
+.card-text {
+  color: #5c5d9f;
+  font-family: "Roboto", sans-serif;
+  font-size: 1em;
+  font-weight: 500;
+}
+
+#about {
+  background-color: #e6e6e6;
+  padding: 30px 0px;
+}
+#about h1 {
+  color: #5c5d9f;
+  font-family: "Play", sans-serif;
+  font-size: 2em;
+  font-weight: 900;
+}
+
+.about-text {
+  color: #393968;
+  font-family: "Roboto", sans-serif;
+  font-size: 1em;
+  font-weight: 500;
+}
+
+#contact h1 {
+  color: white
+  font-family: "Play", sans-serif;
+  font-size: 2em;
+  font-weight: 900;
+}
+
+#contact {
+  background-color: #7c7db3;
+}
+
+.title-links {
+  color: white;
+  font-family: "Play", sans-serif;
+  font-size: 0.8em;
+}
+.contact {
+  color: white;
+
+  font-family: "Roboto", sans-serif;
+  font-size: 1em;
+}
+
+.contact-title h1{
+  color: white;
+  font-family: "Play", sans-serif;
+  font-size: 2em;
+  font-weight: 900;
+  text-align: center;
+  padding:20px;
+}
+
+footer{
+  text-align: center;
+  padding:20px;
+  color:#7c7db3;
+  background-color: #e6e6e6;
+}
+
+a{
+  color:white;
+}
+

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg1079"
+   version="1.1"
+   viewBox="0 0 32.286442 38.650951"
+   height="38.650951mm"
+   width="32.286442mm">
+  <defs
+     id="defs1073">
+    <linearGradient
+       gradientTransform="matrix(0.1155846,-0.1155846,0.1155846,0.1155846,194.7561,22.89714)"
+       id="DarkBlue"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#4f5088;stop-opacity:1;"
+         offset="0"
+         id="stop3006" />
+    </linearGradient>
+  </defs>
+  <metadata
+     id="metadata1076">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-60.366899,-11.960789)"
+     id="layer1">
+    <path
+       id="path2570"
+       style="fill:url(#DarkBlue);fill-opacity:1;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
+       d="M 76.509691,11.960789 A 16.143341,16.143341 0 0 0 60.366899,28.104002 16.143341,16.143341 0 0 0 76.510128,44.24763 16.143341,16.143341 0 0 0 92.653339,28.104002 16.143341,16.143341 0 0 0 76.510128,11.960789 a 16.143341,16.143341 0 0 1 -4.5e-4,0 z m 4.49e-4,3.104358 A 13.038853,13.038853 0 0 1 89.548964,28.104002 13.038853,13.038853 0 0 1 76.510128,41.142855 13.038853,13.038853 0 0 1 63.471265,28.104002 13.038853,13.038853 0 0 1 76.510128,15.065147 Z m -0.0034,2.018237 A 11.020934,11.020934 0 0 0 65.48951,28.104002 11.020934,11.020934 0 0 0 76.51059,39.125064 11.020934,11.020934 0 0 0 87.531643,28.104002 11.020934,11.020934 0 0 0 76.51059,17.083384 a 11.020934,11.020934 0 0 0 -0.0034,0 z m -5.904,3.982951 6.969757,6.969781 -1.207547,1.207521 -6.969748,-6.969764 z m 1.251234,24.190215 v 5.35519 h 9.313545 v -5.35519 z" />
+  </g>
+</svg>
